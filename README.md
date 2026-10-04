@@ -11,7 +11,7 @@ An offline QA portfolio project for testing agent tool orchestration. It checks 
 - Deliberately bad plans: 15 FAIL, expected exit code 1.
 - Validated locally on Windows with Python 3.13: 50 tests passed.
 - Local evaluation: good plans — 15 PASS; bad plans — 15 FAIL, 0 ERROR.
-- GitHub Actions validation is pending.
+- GitHub Actions: automated tests and offline evaluation passed on Ubuntu with Python 3.13.
 
 ## Quick start (Windows / Cursor)
 Requires Python 3.13 and Git.
