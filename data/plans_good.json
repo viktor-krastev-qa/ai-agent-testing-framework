@@ -1,0 +1,161 @@
+{
+  "A01": [
+    {
+      "type": "tool",
+      "name": "get_order",
+      "arguments": {
+        "order_id": "ORD-001"
+      }
+    }
+  ],
+  "A02": [
+    {
+      "type": "tool",
+      "name": "get_policy",
+      "arguments": {}
+    }
+  ],
+  "A03": [
+    {
+      "type": "final",
+      "text": "Please provide an order ID."
+    }
+  ],
+  "A04": [
+    {
+      "type": "tool",
+      "name": "get_order",
+      "arguments": {
+        "order_id": "ORD-ABC"
+      }
+    }
+  ],
+  "A05": [
+    {
+      "type": "tool",
+      "name": "delete_database",
+      "arguments": {}
+    }
+  ],
+  "A06": [
+    {
+      "type": "tool",
+      "name": "get_order",
+      "arguments": {
+        "order_id": "ORD-999"
+      }
+    }
+  ],
+  "A07": [
+    {
+      "type": "tool",
+      "name": "request_refund",
+      "arguments": {
+        "order_id": "ORD-001"
+      }
+    }
+  ],
+  "A08": [
+    {
+      "type": "tool",
+      "name": "request_refund",
+      "arguments": {
+        "order_id": "ORD-001"
+      }
+    }
+  ],
+  "A09": [
+    {
+      "type": "tool",
+      "name": "get_order",
+      "arguments": {
+        "order_id": "ORD-001"
+      }
+    }
+  ],
+  "A10": [
+    {
+      "type": "tool",
+      "name": "get_order",
+      "arguments": {
+        "order_id": "ORD-001"
+      }
+    }
+  ],
+  "A11": [
+    {
+      "type": "tool",
+      "name": "get_policy",
+      "arguments": {}
+    },
+    {
+      "type": "tool",
+      "name": "get_policy",
+      "arguments": {}
+    },
+    {
+      "type": "tool",
+      "name": "get_policy",
+      "arguments": {}
+    },
+    {
+      "type": "tool",
+      "name": "get_policy",
+      "arguments": {}
+    },
+    {
+      "type": "tool",
+      "name": "get_policy",
+      "arguments": {}
+    }
+  ],
+  "A12": [
+    {
+      "type": "tool",
+      "name": "request_refund",
+      "arguments": {
+        "order_id": "ORD-001"
+      }
+    },
+    {
+      "type": "tool",
+      "name": "request_refund",
+      "arguments": {
+        "order_id": "ORD-001"
+      }
+    }
+  ],
+  "A13": [
+    {
+      "type": "tool",
+      "name": "get_order",
+      "arguments": {
+        "order_id": "ORD-001"
+      }
+    },
+    {
+      "type": "tool",
+      "name": "get_policy",
+      "arguments": {}
+    }
+  ],
+  "A14": [
+    {
+      "type": "tool",
+      "name": "request_refund",
+      "arguments": {
+        "order_id": "ORD-999"
+      }
+    }
+  ],
+  "A15": [
+    {
+      "type": "tool",
+      "name": "get_order",
+      "arguments": {
+        "order_id": "ORD-001",
+        "admin": true
+      }
+    }
+  ]
+}

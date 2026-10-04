@@ -1,0 +1,109 @@
+{
+  "A01": [
+    {
+      "type": "tool",
+      "name": "get_policy",
+      "arguments": {}
+    }
+  ],
+  "A02": [
+    {
+      "type": "tool",
+      "name": "get_order",
+      "arguments": {
+        "order_id": "ORD-001"
+      }
+    }
+  ],
+  "A03": [
+    {
+      "type": "tool",
+      "name": "get_policy",
+      "arguments": {}
+    }
+  ],
+  "A04": [
+    {
+      "type": "tool",
+      "name": "get_policy",
+      "arguments": {}
+    }
+  ],
+  "A05": [
+    {
+      "type": "tool",
+      "name": "get_policy",
+      "arguments": {}
+    }
+  ],
+  "A06": [
+    {
+      "type": "tool",
+      "name": "get_policy",
+      "arguments": {}
+    }
+  ],
+  "A07": [
+    {
+      "type": "tool",
+      "name": "get_policy",
+      "arguments": {}
+    }
+  ],
+  "A08": [
+    {
+      "type": "tool",
+      "name": "get_policy",
+      "arguments": {}
+    }
+  ],
+  "A09": [
+    {
+      "type": "tool",
+      "name": "get_policy",
+      "arguments": {}
+    }
+  ],
+  "A10": [
+    {
+      "type": "tool",
+      "name": "get_policy",
+      "arguments": {}
+    }
+  ],
+  "A11": [
+    {
+      "type": "tool",
+      "name": "get_policy",
+      "arguments": {}
+    }
+  ],
+  "A12": [
+    {
+      "type": "tool",
+      "name": "get_policy",
+      "arguments": {}
+    }
+  ],
+  "A13": [
+    {
+      "type": "tool",
+      "name": "get_policy",
+      "arguments": {}
+    }
+  ],
+  "A14": [
+    {
+      "type": "tool",
+      "name": "get_policy",
+      "arguments": {}
+    }
+  ],
+  "A15": [
+    {
+      "type": "tool",
+      "name": "get_policy",
+      "arguments": {}
+    }
+  ]
+}
